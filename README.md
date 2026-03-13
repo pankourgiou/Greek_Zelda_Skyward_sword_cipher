@@ -1,0 +1,1 @@
+This is the Greek Zelda Skyward sword cipher you will have to copy paste the code on your notepad and save it as .html then double click the file and you are ready to go!A full working encryption tool based on Zelda Skyward sword cipher...here https://zeldatranslator.com/   you can find the Zelda Hylian Translator I hope you enjoy!
